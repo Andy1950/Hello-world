@@ -1,2 +1,5 @@
 # hello-world
-ands first repository
+andys first repository
+branch edit
+hydrogen project
+Added detail - not much !
